@@ -11,12 +11,12 @@ Rest Web service using Spring Boot
     - The average cost per engine type.
     - The average cost per color.
 
-###Enviornment
+### Enviornment
 - Netbeans IDE
 - Maven based java application
 - Java 1.8 or above (won't work for lower version)
 
-####Invoke Rest Web service from client side.
+#### Invoke Rest Web service from client side.
     - The list of all vehicles. (http://localhost:8080/all/)
     - The list of vehicles by price. (http://localhost:8080/price/)
     - The average cost per vehicle type sorted by price. (http://localhost:8080/type/)
